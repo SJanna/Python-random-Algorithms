@@ -12,3 +12,9 @@ Programa en Python que a través de un menú, permita seleccionar cualquiera de 
 6. Cadenas binarias que no contengan la subcadena 000.
 7. Cadenas binarias que no contengan a la subcadena 000 ni a la subcadena 010.
 8. Cadenas ternarias que no contengan a la subcadena 000.
+
+# 2.Fractales
+Programa en Python que reciba un valor n y cree el fractal de tamaño, escogido por medio de un menu.
+![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/interfaz2.png?raw=true)
+![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/HFractal2.png?raw=true)
+![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/BoxFractal3.png?raw=true)
