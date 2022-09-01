@@ -18,3 +18,10 @@ Programa en Python que reciba un valor n y cree el fractal de tamaño, escogido 
 ![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/interfaz2.png?raw=true)
 ![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/HFractal2.png?raw=true)
 ![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/BoxFractal3.png?raw=true)
+
+# 3.Triángulo Capaz Alternas - Función recursiva 2D
+Disene e implemente arreglos recursivos 2D, utilizando la siguente metodología:
+1. Un if para el caso base.
+2. Un elif por cada singularidad.
+3. Un else para los llamados recursivos mas pequeños, internamente se repite el proceso anterior, dependiendo del numero.
+![triángulo capaz alternas](sources/TrianguloCapazAlternas-n21.png)
