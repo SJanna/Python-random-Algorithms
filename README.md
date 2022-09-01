@@ -15,6 +15,10 @@ Programa en Python que a través de un menú, permita seleccionar cualquiera de 
 
 # 2.Fractales
 Programa en Python que reciba un valor n y cree el fractal de tamaño, escogido por medio de un menu.
-![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/interfaz2.png?raw=true)
-![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/HFractal2.png?raw=true)
-![alt text](https://github.com/SJanna/Python-random-Algorithms/blob/main/sources/BoxFractal3.png?raw=true)
+![Interfaz](sources/Interfaz2.png)
+![Fractal H](sources/HFractal2.png)
+![Box Fractal](sources/BoxFractal3.png)
+
+.
+.
+.
