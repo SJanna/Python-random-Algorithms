@@ -1,0 +1,24 @@
+def quartiles(arr):
+    arr.sort()
+    print(arr)
+    lp=arr[:n//2]
+    print(lp)
+    hp=arr[(n+1)//2:]
+    print(hp)
+    if len(lp)%2!=0:
+        Q1=lp[len(lp)//2]
+    else:
+        Q1=sum(lp[len(lp)//2-1:len(lp)//2+1])//2
+        
+    if len(hp)%2!=0:
+        Q3=hp[len(hp)//2]
+    else:
+        print("HERE")
+        Q3=sum(hp[len(hp)//2-1:len(hp)//2+1])//2
+
+    if n%2!=0:
+        Q2=arr[n//2]
+    else:
+        Q2=sum(arr[n//2-1:n//2+1])//2
+    
+    return Q1,Q2,Q3
